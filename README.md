@@ -120,4 +120,4 @@ For questions about course content or technical issues:
 
 ---
 
-**Note**: This repository contains educational materials for the Udacity Generative AI Nanodegree program. All content is designed for learning purposes and follows best practices in generative AI development. 
+**Note**: This repository contains educational materials for the Udacity Generative AI Nanodegree program. All content is designed for learning purposes and follows best practices in generative AI development.  
